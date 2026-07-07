@@ -1,9 +1,6 @@
 # About Me
 
 Final Year Computer Engineering Student at NMIMS | Generative AI Engineer | AI Agents • Multimodal RAG • Voice AI • Full-Stack Development
-# 💫 About Me:
-dmlgr<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashi-patel589)
